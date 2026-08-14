@@ -1,0 +1,27 @@
+{
+  "name": "nr-verifique",
+  "version": "1.0.0",
+  "description": "Bot global de verificación y moderación para Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "verification",
+    "moderation",
+    "nr-verifique"
+  ],
+  "author": "NR VERIFIQUE",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.26.2",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}
