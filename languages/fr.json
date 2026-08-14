@@ -1,0 +1,18 @@
+{
+  "name": "Français",
+  "flag": "🇫🇷",
+  "welcome": "Bienvenue sur NR VERIFIQUE !",
+  "select_language": "Sélectionnez la langue de votre serveur.",
+  "language_configured": "Langue configurée avec succès.",
+  "help": "Guide et commandes de NR VERIFIQUE",
+  "configuration": "Configuration",
+  "verification": "Vérification",
+  "moderation": "Modération",
+  "information": "Informations",
+  "support": "Serveur de support",
+  "not_configured": "Ce serveur doit encore configurer sa langue.",
+  "verify": "Commencez le processus de vérification.",
+  "verified": "Vous avez été vérifié avec succès !",
+  "error": "Une erreur est survenue.",
+  "no_permission": "Vous n'avez pas la permission d'effectuer cette action."
+}
