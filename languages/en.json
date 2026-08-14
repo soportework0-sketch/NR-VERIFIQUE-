@@ -1,0 +1,18 @@
+{
+  "name": "English",
+  "flag": "🇺🇸",
+  "welcome": "Welcome to NR VERIFIQUE!",
+  "select_language": "Select your server language.",
+  "language_configured": "Language configured successfully.",
+  "help": "NR VERIFIQUE guide and commands",
+  "configuration": "Configuration",
+  "verification": "Verification",
+  "moderation": "Moderation",
+  "information": "Information",
+  "support": "Support Server",
+  "not_configured": "This server still needs to configure its language.",
+  "verify": "Start the verification process.",
+  "verified": "You have been successfully verified!",
+  "error": "An error occurred.",
+  "no_permission": "You do not have permission to perform this action."
+}
