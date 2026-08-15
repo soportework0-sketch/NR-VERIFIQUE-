@@ -1560,33 +1560,21 @@ process.on(
    SERVIDOR WEB PARA RENDER
 ===================================================== */
 
-const http = require("http");
-
 http.createServer(
     (req, res) => {
-
-        res.writeHead(
-            200,
-            {
-                "Content-Type":
-                    "text/plain; charset=utf-8"
-            }
-        );
+        res.writeHead(200, {
+            "Content-Type": "text/plain; charset=utf-8"
+        });
 
         res.end(
             "🛡️ NR VERIFIQUE está funcionando correctamente."
         );
-
     }
 ).listen(
     PORT,
     "0.0.0.0",
     () => {
-
-        console.log(
-            `🌐 Puerto activo: ${PORT}`
-        );
-
+        console.log(`🌐 Puerto activo: ${PORT}`);
     }
 );
 
