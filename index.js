@@ -1575,9 +1575,6 @@ process.on(
 
 const http = require("http");
 
-const PORT =
-    process.env.PORT || 10000;
-
 http.createServer(
     (req, res) => {
 
